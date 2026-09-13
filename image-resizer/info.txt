@@ -1,0 +1,17 @@
+IMAGE RESIZER - PLAY CONSOLE NOTES
+==================================
+
+Application Name:
+Image Resizer
+
+Package Name:
+com.differentfreelancer.imageresizer
+
+Privacy Policy:
+https://freelancerdifferent-stack.github.io/Different-Freelancer-Privacy/image-resizer/
+
+Delete Account & Data:
+https://freelancerdifferent-stack.github.io/Different-Freelancer-Privacy/image-resizer/delete-account.html
+
+Developer:
+Different Freelancer Studio
